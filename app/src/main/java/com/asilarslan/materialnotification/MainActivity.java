@@ -127,7 +127,6 @@ public class MainActivity extends ActionBarActivity {
         public static final String ARG_PLANET_NUMBER = "citiy_number";
 
         public PostFragment() {
-            // Empty constructor required for fragment subclasses
         }
 
         @Override
